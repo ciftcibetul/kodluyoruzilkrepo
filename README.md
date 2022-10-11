@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturuduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-!Proje Görseli(https://masaüstü/ilkrepo.img.jpg)
+![alt text](http://ilkrepo.jpg)
 
 ## Installation
 
