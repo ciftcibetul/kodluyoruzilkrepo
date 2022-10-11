@@ -15,5 +15,18 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturuduğumuz ilk repo. İçerisind
 Projeyi cloneladıktan sonra VS Code programında açınız.
 
 
+Linux için:  
 
+```linux
+cd kodluyoruzilkrepo
+code.
+```
+
+
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
