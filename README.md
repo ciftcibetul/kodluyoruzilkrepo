@@ -2,6 +2,8 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturuduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+!Proje Görseli(https://
+
 ## Installation
 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
