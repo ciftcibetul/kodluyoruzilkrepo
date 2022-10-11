@@ -6,6 +6,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturuduğumuz ilk repo. İçerisind
 ## Installation
 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
+![ilkrepo](https://user-images.githubusercontent.com/114700587/195187254-84b4d42e-b3f8-4137-b195-aa0c9fe4c1ab.jpg)
 
 ```bash
  git clone https://github.com/ciftcibetul/kodluyoruzilkrepo.git
